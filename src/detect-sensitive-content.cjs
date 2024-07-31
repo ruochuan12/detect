@@ -1,6 +1,3 @@
-// https://github.com/barretlee/blog/blob/master/scripts/detect-sensitive-content.js
-// 代码源自：小胡子哥的博客
-
 'use strict';
 
 const fs = require('fs');

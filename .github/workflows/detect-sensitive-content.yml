@@ -1,6 +1,7 @@
 name: detect-sensitive-content
 
 on:
+  workflow_dispatch:
   push:
     branches:
       - main

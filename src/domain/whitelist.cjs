@@ -1,6 +1,3 @@
-// https://github.com/barretlee/blog/blob/master/scripts/domain/whitelist.js
-// 代码源自：小胡子哥的博客
-
 module.exports = [
 	"www.w3.org",
 	"www.cnblogs.com",
